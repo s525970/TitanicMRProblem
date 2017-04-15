@@ -8,19 +8,26 @@ We created 2 pairs of mapper and reducer class.
 
 # Commands to execute: (local machine)--Running mapper and reducer files individually
 execfile('filename')
+
 Example: execfile('mapper.py')
 # Data Source:
 The data set of our problem is organized and does not need to be cleaned. We chose our data set as there is no solution available on  the internet.
+
 https://github.com/caesar0301/awesome-public-datasets/blob/master/Datasets/titanic.csv.zip (Links to an external site.) (Links to an external site.)
 # Steps
 1.	We have Titanic.csv file with lot of data
+
 2.	Mapper.py---> Send the data set as a input to the mapper function and we will get output as a key-value pairs, which we will as input to the sort.py ---->
 execfile('Mapper.py')
+
 3.	Sort.py-----> Took this mapper output in one file and used it as input to the sort.py and sorted the data in alphabetical order.
 execfile('Sort.py')
+
 4.	Reducer.py--> Took sort.py output to one file and pushed this as input to reducer.py file--> Yeah, we got final output as key value pairs and it is required one.
 execfile('Reducer.py')
+
 5.	We got final data from the reducer class and used that to visualize it on excel.
+
 # Hadoop Eco System:
 Installing Cloudera --> importing Hadoop virtual os ---> writing the commands using Hadoop file system and map reduce will automatically give output
 
