@@ -43,3 +43,5 @@ Installing Cloudera --> importing Hadoop virtual os ---> writing the commands us
 ![Mapper 1 Graph](/images/redu2.JPG)
 # Visual Representation (The final percentage of survival)
 ![Mapper 1 Graph](/images/Survival.PNG)
+# SHARING CODE & SHARING WORK :
+Yes, the code can be accessed from a location as our repository is public. Git has been used in pushing the code and I believe, this is the latest form of technology to share your data. Our team performed equally in all the sections. We divided the work and worked on it.
