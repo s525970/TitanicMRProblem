@@ -24,4 +24,4 @@ Installing Cloudera --> importing Hadoop virtual os ---> writing the commands us
 
 # Map-Reduce Problem01
 # Mapper: output
-![Mapper 1 Graph](/imagges/map0.JPG)
+![Mapper 1 Graph](/images/map0.JPG)
