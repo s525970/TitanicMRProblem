@@ -23,5 +23,14 @@ execfile('Reducer.py')
 Installing Cloudera --> importing Hadoop virtual os ---> writing the commands using Hadoop file system and map reduce will automatically give output
 
 # Map-Reduce Problem01
-# Mapper: output
 ![Mapper 1 Graph](/images/map0.JPG)
+![redu 1 Graph](/images/redu0.JPG)
+![ 1 Graph](/images/Total.PNG)
+# Map-Reduce Problem
+![Mapper 1 Graph](/images/map2.JPG)
+![Mapper 1 Graph](/images/redu1.JPG)
+![Mapper 1 Graph](/images/Survived.PNG)
+# Map-Reduce Problem
+![Mapper 1 Graph](/images/map3.JPG)
+![Mapper 1 Graph](/images/redu2.JPG)
+![Mapper 1 Graph](/images/Survival.PNG)
