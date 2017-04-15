@@ -1,7 +1,9 @@
 # TitanicMRProblem
 # MapReduce-Hadoop
 Our data set is all about survival details about the passengers in the titanic. The data set consists of passenger’s details of age, gender, ticket fair, passenger’s class and compartment.
+
 We first calculated the total number of males and females, who got survived then their survival percentage.
+
 We created 2 pairs of mapper and reducer class.
 
 # Commands to execute: (local machine)--Running mapper and reducer files individually
